@@ -1,0 +1,17 @@
+{
+  "name": "手写原理",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --ui"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitest/ui": "^0.18.1",
+    "esno": "^0.16.3",
+    "vitest": "^0.18.1"
+  }
+}
